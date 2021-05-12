@@ -23,7 +23,7 @@
     "@fullcalendar/resource-timegrid": "^4.2.0",
     "async": "^3.1.0",
     "body-parser": "^1.19.0",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "connect-redis": "^3.4.2",
     "cookie-parser": "^1.4.4",
     "dragula": "^3.7.2",
